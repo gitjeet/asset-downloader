@@ -24,7 +24,7 @@
     "downloader"
   ],
   "dependencies": {
-    "pogobuf": "^1.6.0",
+    "pogobuf-vnext": "2.3.0",
     "request": "^2.74.0",
     "pokename": "^0.3.0"
   },
