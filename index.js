@@ -1,7 +1,7 @@
 "use strict";
 
 let request = require("request");
-let pogobuf = require("pogobuf");
+let pogobuf = require("pogobuf-vnext");
 
 let assets = {};
 
